@@ -15,9 +15,19 @@
 
 ## Photography Interests
 
-- Sunset at Coorg ![](/images/img1.jpg)
-- Sunset at Lake Tahoe ![](/images/img2.JPG)
-- Sunset at Rameshwaram ![](/images/img3.JPG)
-- Sunset at Thiruvanmiyur Beach ![](/images/img4.jpg)
-- Sunrise at Marina Beach ![](/images/img5.jpg)
+### Sunset at Coorg
+
+![](/images/img1.jpg)
+### Sunset at Lake Tahoe
+
+![](/images/img2.JPG)
+### Sunset at Rameshwaram 
+
+![](/images/img3.JPG)
+### Sunset at Thiruvanmiyur Beach 
+
+![](/images/img4.jpg)
+### Sunrise at Marina Beach
+
+![](/images/img5.jpg)
 
